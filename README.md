@@ -25,7 +25,7 @@
 <h4>Click the button below to deploy Prime on Heroku!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/TheReyzu/ReyzuRobot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-<h4>Click the button below to deploy Prime on heroku Bot!</h4>
+<h4>Click the button below to deploy Reyzu on heroku Bot!</h4>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU1lZ2EgTWFzdGVy"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
 </details>
 
@@ -62,7 +62,7 @@ bash start
 </details>
 
 ### Contributors
-- [Reyzu Robot](https://github.com/Reyzuuu)
+- [TheReyzu](https://github.com/TheReyzu) : Reyzu Robot
 - [Tonic990](https://github.com/Tonic990) : Prime Devs
 - [Arya](https://github.com/aryazakaria01) : Natsunagi Devs
 - [Xbarox](https://github.com/Xbaroxx)
