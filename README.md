@@ -4,7 +4,7 @@
 
 <h4><p align="center"> Reyzu Manage </p></h4>
 
-<p align="center">Prime Mega is a modular bot running on python3 with autobots theme and have a lot features.</p>
+<p align="center">Reyzu Robot is a modular bot running on python3 with autobots theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/ReyzuRobot"> <img src="https://img.shields.io/badge/Reyzu-Robot-blue?&logo=telegram" alt="Reyzu on Telegram" /> </a><br>
@@ -23,7 +23,7 @@
 <summary><b> 🚀 Heroku Deployment</b></summary>
 <br>
 <h4>Click the button below to deploy Prime on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/Reyzuuu/ReyzuRobot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/TheReyzu/ReyzuRobot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 <h4>Click the button below to deploy Prime on heroku Bot!</h4>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU1lZ2EgTWFzdGVy"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
@@ -40,7 +40,7 @@ screen -S ReyzuRobot
 ```
 2. Clone Github
 ```console
-git clone https://github.com/Reyzuuu/ReyzuRobot && cd ReyzuRobot
+git clone https://github.com/TheReyzu/ReyzuRobot && cd ReyzuRobot
 ```
 3. Install Requirement
 ```console
